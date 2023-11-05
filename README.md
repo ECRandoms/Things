@@ -15,6 +15,7 @@
         <li>#4- <a href="https://amzn.to/3tT64lt">A Tracker</a></li>
         <li>#5- <a href="https://amzn.to/3SpnzEb">A Makeup Thingy</a></li>
         <li>#6- <a href="https://amzn.to/3QLTnSH">A Kitchen Thingy</a></li>
+        <li>#7- <a href="https://amzn.to/3Su24Cs">A Bike</a></li>
     </ul>
 </body>
 </html>
