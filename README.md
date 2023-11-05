@@ -1,4 +1,3 @@
-</head>
 <body>
     <h1>Stuff You May Like</h1>
     <p>As you may have noticed, the numbers (#) on the titles of my shorts, are the number of items you can check out on amazon, if you like it, you buy it. It is that simple.😁</p>
@@ -12,4 +11,3 @@
         <li>#7- <a href="https://amzn.to/3Su24Cs">A Bike</a></li>
     </ul>
 </body>
-</html>
